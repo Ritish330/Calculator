@@ -1,4 +1,5 @@
-#Calculator
+# WEATHER-APPLICATION
+
 Introduction
 This is a simple calculator project built using HTML5, CSS, and JavaScript. It provides basic arithmetic calculations and a user-friendly interface.
 
